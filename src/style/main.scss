@@ -1,0 +1,23 @@
+.app-wrapper {
+    padding: 50px;
+}
+
+
+.formularioContent {
+    display: grid;
+    grid-template-rows: 1fr 2fr 1fr;
+    justify-content: center;
+}
+
+.formGrid {
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+    width: 500px;
+}
+
+.lista {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-items: center;
+}
+
